@@ -3,11 +3,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Harsh Sewatkar</h1>
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning Engineer</h3>
-
----
-
 ## 🚀 About Me
 
 🎓 B.Tech – Computer Science
